@@ -1,0 +1,9 @@
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\bin\Debug\ACPcalc.exe.config
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\bin\Debug\ACPcalc.exe
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\bin\Debug\ACPcalc.pdb
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\obj\Debug\ACPcalc.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\obj\Debug\ACPcalc.Properties.Resources.resources
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\obj\Debug\ACPcalc.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\obj\Debug\ACPcalc.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\obj\Debug\ACPcalc.exe
+C:\Users\benja\source\repos\ACPcalc\ACPcalc\obj\Debug\ACPcalc.pdb
